@@ -1,7 +1,7 @@
 def square_array(array)
-  square = []
+  squared = []
   count = 0
-  while count < array do 
+  while count < array.size do 
     
 count += 1 
 end
